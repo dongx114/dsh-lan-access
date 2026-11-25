@@ -1,0 +1,3 @@
+- insert:
+    - id: lan-access
+      name: dsh-lan-access
